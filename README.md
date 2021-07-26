@@ -42,4 +42,4 @@ Work on improving my CSS skill and continue learning Javascript
 
 ## Author
 
-- Frontend Mentor - [@officialkome](https://www.frontendmentor.io/profile/officialkome)
+- Frontend Mentor - [@siddharthgarewal](https://www.frontendmentor.io/profile/siddharthgarewal)
